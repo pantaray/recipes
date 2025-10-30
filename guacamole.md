@@ -3,3 +3,4 @@
 - lime
 - salt
 - chopped tomatoes 
+- add chili

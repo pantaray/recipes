@@ -4,3 +4,5 @@
 - salt
 - chopped tomatoes 
 - peppers
+- add chili
+
